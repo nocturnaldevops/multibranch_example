@@ -1,5 +1,3 @@
 #!/bin/bash
-ls 
-pwd
-whoami
-echo "Hello there from $USER"
+echo "Hello from Feature Branch1"
+echo "welcome to Jenkins Multibranch Pipeline COncept"
