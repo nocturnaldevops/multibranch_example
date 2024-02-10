@@ -1,5 +1,4 @@
 #!/bin/bash
-ls 
-pwd
-whoami
-echo "Hello there from $USER"
+echo "Hello there from feature2 branch"
+echo "Welcometo jenkins "
+echo "this is feature 2"
