@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git branch: 'main', url: 'https://github.com/nocturnaldevops/multibranch_example.git'
+                git branch: 'feature2', url: 'https://github.com/nocturnaldevops/multibranch_example.git'
             }
         }
         stage("run_thescript")
